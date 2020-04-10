@@ -1,0 +1,25 @@
+html, body, head, #root {
+  height: 100%;
+}
+
+ul {
+  margin: 0;
+}
+
+.App {
+  text-align: center;
+  height: 100%;
+}
+
+.App-menu {
+  text-align: left;
+  max-width: 30vh;
+  height: 100%;
+  border-right: 3px solid black;
+  border-bottom: 3px solid black;
+  border-top: 3px none black;
+}
+
+.App-menu .menu-item {
+  text-align: center;
+}
